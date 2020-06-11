@@ -1,0 +1,24 @@
+{
+  "name": "javascript-client",
+  "version": "1.0.0",
+  "description": "A JavaScript example for DeckPrism's NFL",
+  "main": "index.js",
+  "dependencies": {
+    "amqplib": "^0.5.6",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeckPrism-Sports/javascript-client.git"
+  },
+  "author": "Deuce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeckPrism-Sports/javascript-client/issues"
+  },
+  "homepage": "https://github.com/DeckPrism-Sports/javascript-client#readme"
+}
